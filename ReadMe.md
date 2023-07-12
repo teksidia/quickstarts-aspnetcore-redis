@@ -1,4 +1,6 @@
-﻿#About
+## QuickStart - ASPNETCORE - Redis
+
+Example ASPNETCORE 6 app showing integration with Azure Redis Cache Service
 
 Based on: https://learn.microsoft.com/en-us/azure/azure-cache-for-redis/cache-web-app-cache-aside-leaderboard
 
